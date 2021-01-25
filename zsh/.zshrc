@@ -108,4 +108,5 @@ java11
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 
 export PATH="/usr/local/sbin:$PATH"
+eval "$(starship init zsh)"
 
